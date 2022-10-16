@@ -8,10 +8,10 @@
 		<version>2.6.12</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.spring-learning</groupId>
-	<artifactId>spring-learinig-in-10-steps</artifactId>
+	<groupId>com.basics</groupId>
+	<artifactId>trial-in-10-steps</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring-learinig-in-10-steps</name>
+	<name>trial-in-10-steps</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
