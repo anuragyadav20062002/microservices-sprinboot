@@ -14,6 +14,6 @@ public class BooksController {
 	public List<Book> getAllBooks()
 	{
 		return Arrays.asList(
-				new Book(1L,"Mastering Spring","AVS"));
+				new Book(1L,"Mastering Spring boot","AVS"));
 	}
 }
