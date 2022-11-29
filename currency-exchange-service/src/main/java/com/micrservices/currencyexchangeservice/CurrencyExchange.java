@@ -19,7 +19,6 @@ public class CurrencyExchange {
 	private BigDecimal conversionMultiple;
 	private String environment;
 
-	
 	public CurrencyExchange() {
 
 	}
