@@ -93,12 +93,13 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<configuration>
 					<image>
-						<name>in28min/mmv2-${project.artifactId}:${project.version}</name>
+						<name>anuragyadav20602/mmv2-${project.artifactId}:${project.version}</name>
 					</image>
 					<pullPolicy>IF_NOT_PRESENT</pullPolicy>
 				</configuration>				
 			</plugin>
 		</plugins>
+		<finalName>currency-conversion-service-upes</finalName>
 	</build>
 
 	<repositories>
